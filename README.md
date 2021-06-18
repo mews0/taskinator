@@ -4,7 +4,7 @@
 This application generates a digital Kanban board.
 
 ## Screenshot
-./assets/images/screenshot.jpg
+![image](https://user-images.githubusercontent.com/83786253/122489768-088e5b00-cfa6-11eb-99b6-7082bc320205.png)
 
 ## URL of the Deployed Application
 https://mews0.github.io/taskinator/
